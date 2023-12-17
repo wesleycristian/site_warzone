@@ -141,11 +141,11 @@ section {
 
 .position {
     position: absolute;
-    bottom: 20px;
-    margin-left: 700px;
+    bottom: 2%;
+    margin-left: 35%;
 }
 .address {
     position: absolute;
-    bottom: 20px;
-    margin-left: 1100px;
+    bottom: 2%;
+    margin-left: 60%;
 }
