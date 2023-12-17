@@ -49,7 +49,7 @@ height: 24px;
 
 .brands-list li {
     display: inline;
-    margin-right: 8px;   
+    margin-right: 16px;   
 }
 
 section .container {
@@ -81,7 +81,7 @@ section p {
 
 .Social-links li{
     display: inline;
-    margin-right: 8px;
+    margin-right: 10px;
 }
 
 .Social-links li a {
@@ -112,7 +112,8 @@ form textarea{
 }
 
 section h3{
-    margin: 20px;
+    margin: 10px;
+    text-align: center;
 }
 
 form button{
@@ -132,8 +133,19 @@ input:focus, textarea:focus {
 footer{
     background-color: #0c0c0c;
     color: #ecf0f1;
-    padding: 16px o;
+    padding: 16px;
 }
 section {
     background-color: #b0dce4;
+}
+
+.position {
+    position: absolute;
+    bottom: 20px;
+    margin-left: 700px;
+}
+.address {
+    position: absolute;
+    bottom: 20px;
+    margin-left: 1100px;
 }
