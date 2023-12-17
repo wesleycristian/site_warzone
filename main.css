@@ -37,6 +37,7 @@ header nav li a {
     width: 100%;
     margin: 0 auto;
 }
+
 header .container,
 section .container {
     display: flex;
@@ -137,15 +138,4 @@ footer{
 }
 section {
     background-color: #b0dce4;
-}
-
-.position {
-    position: absolute;
-    bottom: 20px;
-    margin-left: 700px;
-}
-.address {
-    position: absolute;
-    bottom: 20px;
-    margin-left: 1100px;
 }
